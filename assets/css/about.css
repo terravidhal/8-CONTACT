@@ -56,7 +56,7 @@
 .customers-infos{
     max-width: 282px;
     overflow: hidden;
-    scroll-behavior: smooth; /*Comportement de défilement lisse entre les éléments*/
+    scroll-behavior: smooth; /*Comportement de défilement lisse(smooth) entre les éléments*/
 }
 .customer-comments{
     background-color: var(--main-color-light-gray);
